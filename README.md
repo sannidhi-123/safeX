@@ -24,6 +24,10 @@ Sannidhi Chouthayi
 
 ## 📸 Screenshots
 <img width="1600" height="907" alt="image" src="https://github.com/user-attachments/assets/a88fd93d-0817-4a8b-b038-6c9efe4fafe2" />
+
+
 <img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a7bb9f0d-8540-401d-9d44-caedbd24ae62" />
+
+
 <img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/dc9c0acb-db22-4890-8a54-3c739cc4b61f" />
 
